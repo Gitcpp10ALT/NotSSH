@@ -1,6 +1,5 @@
 # READ BEFORE READING THE REST
-**If there is any sort of repo that is named the same, I do not know of it. This name was the first thing that came to mind. I googled this name to check if there was one called this and nothing came up.**
-
+I am not sure if there is any other repo named this. This is a name I chose out of my own mind.
 ***This is under the GNU General Public License (SEE "LICENSE")***
 
 # NotSSH
