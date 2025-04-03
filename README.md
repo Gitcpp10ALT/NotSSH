@@ -1,6 +1,8 @@
 # READ BEFORE READING THE REST
 **If there is any sort of repo that is named the same, I do not know of it. This name was the first thing that came to mind. I googled this name to check if there was one called this and nothing came up.**
 
+***This is under the GNU General Public License (SEE "LICENSE")***
+
 # NotSSH
 NotSSH is a software made with Python and Python's Socket library that allows access to a shell on a windows machine. Currently this is built only for Windows (Windows to Windows Connection) but the Linux application is currently being developed on.
 **NOTICE: WHEN YOU OPEN ONE OF THESE FILES IT WILL ASK TO ALLOW CONNECTIONS FOR THESE APPS. CLICK YES OR IT WILL FAIL TO OPERATE.**
