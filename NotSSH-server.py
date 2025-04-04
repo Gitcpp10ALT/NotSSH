@@ -15,6 +15,7 @@ def start_server():
         print(f"Server is listening on {SERVER}:{PORT}")
 
         connection, addr = server_socket.accept()
+        connection.settimeout(30)
         print(f"Connected by {addr}")
 
         try:
