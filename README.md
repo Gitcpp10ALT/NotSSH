@@ -23,5 +23,5 @@ NotSSH is a software made with Python and Python's Socket library that allows ac
 1. There is a bug that where the whole output may not load correctly. To fix this, press enter until you see the Shell ~ [User Dir]
 
 # Server Listener without window
-If you want to setup the seperate server listener to run without the window, do Start-Process -FilePath '"C:\Path\To\YourProgram.exe" -WindowStyle Hidden'
+If you want to setup the seperate server listener to run without the window, do 'Start-Process -FilePath "C:\Path\To\YourProgram.exe" -WindowStyle Hidden'
 in powershell.
