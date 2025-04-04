@@ -3,7 +3,7 @@ I am not sure if there is any other repo named this. This is a name I chose out 
 ***This is under the GNU General Public License (SEE "LICENSE")***
 
 # NotSSH
-NotSSH is a software made with Python and Python's Socket library that allows access to a shell on a windows machine. Currently this is built only for Windows (Windows to Windows Connection) but the Linux application is currently being developed on.
+NotSSH is a software made with Python and Python's Socket library that allows access to a shell on a windows machine. Currently this is built only for Windows (Windows to Windows Connection) but the Linux application is currently being developed on. 
 **NOTICE: WHEN YOU OPEN ONE OF THESE FILES IT WILL ASK TO ALLOW CONNECTIONS FOR THESE APPS. CLICK YES OR IT WILL FAIL TO OPERATE.**
 # How to connect
 1. Open the NotSSH.exe on your client.
@@ -21,3 +21,7 @@ NotSSH is a software made with Python and Python's Socket library that allows ac
 
 # Bugs
 1. There is a bug that where the whole output may not load correctly. To fix this, press enter until you see the Shell ~ [User Dir]
+
+# Server Listener without window
+If you want to setup the seperate server listener to run without the window, do Start-Process -FilePath "C:\Path\To\YourProgram.exe" -WindowStyle Hidden
+in powershell.
