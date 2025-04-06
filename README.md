@@ -4,7 +4,7 @@ I am not sure if there is any other repo named this. This is a name I chose out 
 
 # NotSSH
 NotSSH is a software made with Python and Python's Socket library that allows access to a shell on a windows machine. Currently this is built only for Windows (Windows to Windows Connection) but the Linux application is currently being developed on. 
-**NOTICE: WHEN YOU OPEN ONE OF THESE FILES IT WILL ASK TO ALLOW CONNECTIONS FOR THESE APPS. CLICK YES OR IT WILL FAIL TO OPERATE.**
+**NOTICE: WHEN YOU OPEN ONE OF THESE FILES IT WILL ASK TO ALLOW CONNECTIONS FOR THESE APPS. CLICK "RUN ANYWAY" OR IT WILL FAIL TO OPERATE.**
 # How to connect
 1. Open the NotSSH.exe on your client.
 2. press 1, 2, 3 or 4 depending which option you want to select.
