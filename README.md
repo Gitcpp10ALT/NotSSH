@@ -17,7 +17,7 @@ NotSSH is a software made with Python and Python's Socket library that allows ac
 9. Press 3 to connect.
 10. Soon, it should connect to the server machine.
 11. All command prompt commands work here, and will be done on that machine.
-12. To quit, type exit or force quit by pressing enter with nothing typed.
+12. To quit, type exit.
 
 # Bugs
 1. There is a bug that where the whole output may not load correctly. To fix this, press enter until you see the Shell ~ [User Dir]
